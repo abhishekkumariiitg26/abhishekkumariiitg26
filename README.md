@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">"Indian Institute of Information Technology Guwahati, B.Tech ECE 26 👋 | Innovator, Developer, and Problem Solver on a Journey to Build Impactful Solutions 🚀"</h3>
-<img align="right" width="400" alt="coding" src="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4">
+<img align="right" width="400" alt="coding" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumariiitg26&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumariiitg26" /> </p>
 
