@@ -1,7 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">"Indian Institute of Information Technology Guwahati, B.Tech ECE 26 👋 | Innovator, Developer, and Problem Solver on a Journey to Build Impactful Solutions 🚀"</h3>
-<img align="centre" width="10" alt="coding" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumariiitg26&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumariiitg26" /> </p>
 
@@ -20,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/11abhishek-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="11abhishek-kumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@abhishekkumar-f1u4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abhishekkumar-f1u4n" height="30" width="40" /></a>
+<a href="@abhishekkumar-f1u4n" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abhishekkumar-f1u4n" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhishekkumariiitg26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhishekkumariiitg26" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishekkumariiitg26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkumariiitg26" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abhishekkumsgcd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhishekkumsgcd/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/abhishekkumsgcd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhishekkumsgcd/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
